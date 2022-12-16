@@ -1,8 +1,8 @@
-# Front-End Mentor Challenges Reposistory
+# Challenges Repository - frontendmentor.io
 
 ## Intro
 
-[Check all the challenges available at frontendmentor](https://www.frontendmentor.io/challenges)
+[Check all the challenges available at frontendmentor.io](https://www.frontendmentor.io/challenges)
 
 ## Map
 
