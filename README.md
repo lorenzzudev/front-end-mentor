@@ -6,5 +6,5 @@
 
 ## Map
 
-- [x] - Challenge #01 - Product Preview Card Component
+- [x] - [Challenge #01](https://github.com/lorenzzudev/front-end-mentor/tree/main/challenge01-product-preview-card-component-main) - Product Preview Card Component
 - [ ] - Challenge #02 - QR Code Component
